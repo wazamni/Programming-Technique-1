@@ -1,0 +1,20 @@
+Ahmad Faizal,Electricity 150.00 Y
+Siti Aisyah,Water 80.00 N
+Rahim Abdullah,Internet 100.00 Y
+Lee Mei Yin,Electricity 200.00 N
+Nurul Huda,Water 60.00 Y
+Tan Wei Chong,Internet 120.00 N
+Samuel Lim,Electricity 250.00 Y
+Amina Rosli,Internet 140.00 N
+Kumar Devan,Water 50.00 Y
+Zainab Ismail,Electricity 180.00 Y 
+Shahrul Nizam,Water 90.00 N 
+Faisal Ahmad,Water 70.00 Y
+Nadia Rahman,Internet 95.00 Y 
+Luqman Hakim,Electricity 160.00 N 
+Zarina Ismail,Water 75.00 N
+Faridah Hamzah,Internet 110.00 Y 
+Hafiz Norhadi,Electricity 170.00 Y 
+Amirah Zahid,Water 100.00 Y 
+Zulkifili Hassan,Internet 130.00 N 
+Aisyah Abdullah,Electricity 190.00 Y 
